@@ -1,0 +1,17 @@
+.classpath
+.project
+.settings
+*.iml
+*.ipr
+*.iws
+*.ids
+
+**/target/
+**/.metadata/
+**/.settings/
+**/RemoteSystemsTempFiles/
+**/Servers/
+**/bin/
+
+.classpath
+.idea/
